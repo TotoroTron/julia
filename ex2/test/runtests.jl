@@ -1,7 +1,6 @@
-# run.jl
+# runtests.jl
 
-include("ex2.jl")
-using .ex2
+using ex2
 using Test
 
 N = 2^20
