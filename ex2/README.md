@@ -1,8 +1,10 @@
 ### Starting a new project      
-mkdir ex99 \
-cd ex99 \
 julia \
+]
+pkg> generate ex99
 ; \
+shell> cd ex99 \
+] \
 pkg> activate . \
 pkg> add Dataframe Plots etc... 
 
