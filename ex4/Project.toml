@@ -1,0 +1,8 @@
+name = "ex4"
+uuid = "f4b56f4d-1903-47e9-bd5a-ecb8d5c6e142"
+authors = ["TotoroTron <brian.cheng.1997@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Javis = "78b212ba-a7f9-42d4-b726-60726080707e"
