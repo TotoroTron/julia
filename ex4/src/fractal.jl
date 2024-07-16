@@ -5,11 +5,13 @@ using Colors
 
 export draw
 
-function ground(args...)
-    background("white")
-    sethue("black")
+struct session{T<:Integer} <: Real
+    
 end
 
+function draw(xmin, xmax, ymin, ymax, width, height, max_iter)
+    
+end
 
 end # module
 
