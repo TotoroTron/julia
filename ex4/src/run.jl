@@ -1,6 +1,6 @@
 # run.jl
 
-include("ex4.jl")
-using .ex4
+include("circle.jl")
+using circle 
 
-ex4.draw()
+circle.draw()

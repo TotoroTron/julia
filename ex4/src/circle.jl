@@ -1,4 +1,4 @@
-module ex4
+module circle
 using CUDA
 using Javis
 
